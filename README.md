@@ -56,11 +56,7 @@ To empower developers with the skills to build a robust and feature-rich web app
 
 ### **Workflow Overview**  
 The ComiConStore application allows users to manage a collection of comics and their authors. Users can add, view, edit, and delete comics/authors dynamically. The backend processes requests while the frontend renders results seamlessly using EJS.  
-
----
-
-### **Flowchart**  
-![Flowchart Placeholder](https://via.placeholder.com/800x400.png?text=Flowchart+Placeholder)  
+  
 
 ---
 
